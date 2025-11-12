@@ -21,21 +21,7 @@ The project replicates the modern design of YouTube’s homepage and video watch
 - 🎨 **Tailwind CSS** — Styling framework  
 - 🧩 **Vite** — Development build tool (for fast setup and hot reload)
 
----
 
-## 📦 Installation & Setup
-
-Follow these steps to run this project locally 👇
 
 ```bash
-# Clone this repository
-git clone https://github.com/<your-username>/youtube-ui-clone.git
-
-# Navigate into the folder
-cd youtube-ui-clone
-
-# Install dependencies
-npm install
-
-# Start the development server
 npm run dev
