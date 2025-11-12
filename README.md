@@ -23,5 +23,3 @@ The project replicates the modern design of YouTube’s homepage and video watch
 
 
 
-```bash
-npm run dev
