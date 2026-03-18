@@ -78,6 +78,7 @@ Clean modern colors <br>
 
 🚀 Run Locally <br>
 Uncompressed Youtube_UI_Clone folder <br>
+ then run command in terminal : npm install <br>
  then run command in terminal : npm run dev <br>
 
  ---
